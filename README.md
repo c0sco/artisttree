@@ -5,6 +5,7 @@ Given a wikipedia URL to a band or artist, retrieve all related acts and why the
 
 Example
 ==========
+<pre>
 % python artisttree.py 'http://en.wikipedia.org/wiki/Descendents'
 Descendents ----
 |- All (because of: Bill Stevenson, Stephen Egerton, Karl Alvarez)
@@ -24,7 +25,7 @@ Descendents ----
 | `- Misfits (because of: Robo, Dez Cadena)
 | `- Redd Kross (because of: Ron Reyes, Dez Cadena)
 | `- DC3 (because of: Dez Cadena, Kira Roessler)
-|- Only Crime (because of: Bill Stevenson)
+ |- Only Crime (because of: Bill Stevenson)
 | `- ALL (because of: Bill Stevenson)
 | `- Bane (because of: Aaron Dalbec)
 | `- Converge (because of: Aaron Dalbec)
@@ -32,3 +33,4 @@ Descendents ----
 | `- Hagfish (because of: Zach Blair, Doni Blair)
 | `- State of Grace (because of: Russ Rankin)
 ----------------
+</pre>
