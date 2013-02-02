@@ -122,7 +122,7 @@ def parseAssocActs(content):
 
 # Parse the title
 def parseTitle(content):
-	found = re.findall(r'class="firstHeading">.*?<span dir="auto">(.*?)</span>', content, re.DOTALL)
+	found = re.findall(r'class="firstHeading" .*?<span dir="auto">(.*?)</span>', content, re.DOTALL)
 
 	if found:
 		return found[0]
