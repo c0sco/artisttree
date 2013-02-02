@@ -25,7 +25,7 @@ Descendents ----
 | `- Misfits (because of: Robo, Dez Cadena)
 | `- Redd Kross (because of: Ron Reyes, Dez Cadena)
 | `- DC3 (because of: Dez Cadena, Kira Roessler)
- |- Only Crime (because of: Bill Stevenson)
+|- Only Crime (because of: Bill Stevenson)
 | `- ALL (because of: Bill Stevenson)
 | `- Bane (because of: Aaron Dalbec)
 | `- Converge (because of: Aaron Dalbec)
